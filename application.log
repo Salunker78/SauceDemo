@@ -1,0 +1,90 @@
+2023-01-04 15:22:09,630  INFO [main] SauceDemo:42 - Browser is opened
+2023-01-04 15:22:09,774  INFO [main] SauceDemo:46 - Browser is maximized
+2023-01-04 15:22:10,370  INFO [main] SauceDemo:51 - Url is opened
+2023-01-04 15:22:10,623  INFO [main] SauceDemo:55 - usernaeme is entered
+2023-01-04 15:22:10,744  INFO [main] SauceDemo:58 - password eneterd
+2023-01-04 15:22:10,958  INFO [main] SauceDemo:61 - clicked on login button
+2023-01-04 15:22:10,960  INFO [main] SauceDemo:64 - Went on HomePage
+2023-01-04 15:22:10,981  INFO [main] SauceDemo:14 - Apply the Validation
+2023-01-04 15:22:11,455  INFO [main] SauceDemo:71 - browser is closed
+2023-01-04 15:22:11,456  INFO [main] SauceDemo:73 - End of Program
+2023-01-04 15:22:12,257  INFO [main] SauceDemo:42 - Browser is opened
+2023-01-04 15:22:12,401  INFO [main] SauceDemo:46 - Browser is maximized
+2023-01-04 15:22:12,970  INFO [main] SauceDemo:51 - Url is opened
+2023-01-04 15:22:13,106  INFO [main] SauceDemo:55 - usernaeme is entered
+2023-01-04 15:22:13,235  INFO [main] SauceDemo:58 - password eneterd
+2023-01-04 15:22:13,386  INFO [main] SauceDemo:61 - clicked on login button
+2023-01-04 15:22:13,387  INFO [main] SauceDemo:64 - Went on HomePage
+2023-01-04 15:22:13,667  INFO [main] SauceDemo:16 - Clicked on Setting Btn
+2023-01-04 15:22:13,745  INFO [main] SauceDemo:20 - Clicked on LogOut btn
+2023-01-04 15:22:13,745  INFO [main] SauceDemo:23 - went on login page
+2023-01-04 15:22:13,746  INFO [main] SauceDemo:26 - Apply the Validation
+2023-01-04 15:22:14,069  INFO [main] SauceDemo:71 - browser is closed
+2023-01-04 15:22:14,070  INFO [main] SauceDemo:73 - End of Program
+2023-01-04 15:22:14,944  INFO [main] SauceDemo:42 - Browser is opened
+2023-01-04 15:22:15,088  INFO [main] SauceDemo:46 - Browser is maximized
+2023-01-04 15:22:15,686  INFO [main] SauceDemo:51 - Url is opened
+2023-01-04 15:22:15,830  INFO [main] SauceDemo:55 - usernaeme is entered
+2023-01-04 15:22:15,930  INFO [main] SauceDemo:58 - password eneterd
+2023-01-04 15:22:16,102  INFO [main] SauceDemo:61 - clicked on login button
+2023-01-04 15:22:16,103  INFO [main] SauceDemo:64 - Went on HomePage
+2023-01-04 15:22:16,720  INFO [main] SauceDemo:19 - Clicked on all Product
+2023-01-04 15:22:16,721  INFO [main] SauceDemo:21 - Apply the validation
+2023-01-04 15:22:19,277  INFO [main] SauceDemo:71 - browser is closed
+2023-01-04 15:22:19,278  INFO [main] SauceDemo:73 - End of Program
+2023-01-04 15:22:20,085  INFO [main] SauceDemo:42 - Browser is opened
+2023-01-04 15:22:20,219  INFO [main] SauceDemo:46 - Browser is maximized
+2023-01-04 15:22:20,817  INFO [main] SauceDemo:51 - Url is opened
+2023-01-04 15:22:20,956  INFO [main] SauceDemo:55 - usernaeme is entered
+2023-01-04 15:22:21,059  INFO [main] SauceDemo:58 - password eneterd
+2023-01-04 15:22:21,223  INFO [main] SauceDemo:61 - clicked on login button
+2023-01-04 15:22:21,224  INFO [main] SauceDemo:64 - Went on HomePage
+2023-01-04 15:22:21,334  INFO [main] SauceDemo:17 - Clicked on bagProduct
+2023-01-04 15:22:21,334  INFO [main] SauceDemo:19 - Apply the validation
+2023-01-04 15:22:21,963  INFO [main] SauceDemo:71 - browser is closed
+2023-01-04 15:22:21,967  INFO [main] SauceDemo:73 - End of Program
+2023-01-04 15:22:25,953  INFO [main] SauceDemo:42 - Browser is opened
+2023-01-04 15:22:25,958  INFO [main] SauceDemo:46 - Browser is maximized
+2023-01-04 15:22:26,566  INFO [main] SauceDemo:51 - Url is opened
+2023-01-04 15:22:26,727  INFO [main] SauceDemo:55 - usernaeme is entered
+2023-01-04 15:22:26,802  INFO [main] SauceDemo:58 - password eneterd
+2023-01-04 15:22:27,146  INFO [main] SauceDemo:61 - clicked on login button
+2023-01-04 15:22:27,146  INFO [main] SauceDemo:64 - Went on HomePage
+2023-01-04 15:22:27,146  INFO [main] SauceDemo:14 - Apply the Validation
+2023-01-04 15:22:28,322  INFO [main] SauceDemo:71 - browser is closed
+2023-01-04 15:22:28,322  INFO [main] SauceDemo:73 - End of Program
+2023-01-04 15:22:31,240  INFO [main] SauceDemo:42 - Browser is opened
+2023-01-04 15:22:31,245  INFO [main] SauceDemo:46 - Browser is maximized
+2023-01-04 15:22:31,830  INFO [main] SauceDemo:51 - Url is opened
+2023-01-04 15:22:31,982  INFO [main] SauceDemo:55 - usernaeme is entered
+2023-01-04 15:22:32,046  INFO [main] SauceDemo:58 - password eneterd
+2023-01-04 15:22:32,390  INFO [main] SauceDemo:61 - clicked on login button
+2023-01-04 15:22:32,391  INFO [main] SauceDemo:64 - Went on HomePage
+2023-01-04 15:22:32,629  INFO [main] SauceDemo:16 - Clicked on Setting Btn
+2023-01-04 15:22:32,859  INFO [main] SauceDemo:20 - Clicked on LogOut btn
+2023-01-04 15:22:32,861  INFO [main] SauceDemo:23 - went on login page
+2023-01-04 15:22:32,861  INFO [main] SauceDemo:26 - Apply the Validation
+2023-01-04 15:22:34,077  INFO [main] SauceDemo:71 - browser is closed
+2023-01-04 15:22:34,077  INFO [main] SauceDemo:73 - End of Program
+2023-01-04 15:22:36,943  INFO [main] SauceDemo:42 - Browser is opened
+2023-01-04 15:22:36,950  INFO [main] SauceDemo:46 - Browser is maximized
+2023-01-04 15:22:37,509  INFO [main] SauceDemo:51 - Url is opened
+2023-01-04 15:22:37,668  INFO [main] SauceDemo:55 - usernaeme is entered
+2023-01-04 15:22:37,739  INFO [main] SauceDemo:58 - password eneterd
+2023-01-04 15:22:38,078  INFO [main] SauceDemo:61 - clicked on login button
+2023-01-04 15:22:38,078  INFO [main] SauceDemo:64 - Went on HomePage
+2023-01-04 15:22:39,384  INFO [main] SauceDemo:19 - Clicked on all Product
+2023-01-04 15:22:39,384  INFO [main] SauceDemo:21 - Apply the validation
+2023-01-04 15:22:40,703  INFO [main] SauceDemo:71 - browser is closed
+2023-01-04 15:22:40,704  INFO [main] SauceDemo:73 - End of Program
+2023-01-04 15:22:43,558  INFO [main] SauceDemo:42 - Browser is opened
+2023-01-04 15:22:43,564  INFO [main] SauceDemo:46 - Browser is maximized
+2023-01-04 15:22:44,197  INFO [main] SauceDemo:51 - Url is opened
+2023-01-04 15:22:44,303  INFO [main] SauceDemo:55 - usernaeme is entered
+2023-01-04 15:22:44,394  INFO [main] SauceDemo:58 - password eneterd
+2023-01-04 15:22:44,701  INFO [main] SauceDemo:61 - clicked on login button
+2023-01-04 15:22:44,701  INFO [main] SauceDemo:64 - Went on HomePage
+2023-01-04 15:22:44,927  INFO [main] SauceDemo:17 - Clicked on bagProduct
+2023-01-04 15:22:44,928  INFO [main] SauceDemo:19 - Apply the validation
+2023-01-04 15:22:46,289  INFO [main] SauceDemo:71 - browser is closed
+2023-01-04 15:22:46,290  INFO [main] SauceDemo:73 - End of Program
